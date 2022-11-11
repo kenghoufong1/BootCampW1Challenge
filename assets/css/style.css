@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* The body of this html/webpage will have a background color of green */
 body {
     background-color: #d9dcd6;
 }
@@ -42,6 +43,7 @@ a {
     text-decoration: none;
 }
 
+/* all text under p will be in font 16px */
 p {
     font-size: 16px;
 }
