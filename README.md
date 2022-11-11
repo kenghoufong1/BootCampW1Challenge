@@ -36,7 +36,9 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <h3><p align="center">Screenshots<h3>
-![My Image](assets\images\01-html-css-git-homework-demo (1).png.jpg)
+Below is a screesnshot of how the website should look
+
+![My Image](assets\images\Demo.png)
 
 <h3><p align="center">Accetance Criteria<h3>
 GIVEN a webpage meets accessibility standards
